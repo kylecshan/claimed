@@ -16,6 +16,8 @@ limitations under the License.
 {% endcomment %}
 -->
 
+Sometimes you have to take a random Coursera course for work, and they ask you to fork their repository instead of just cloning it. Why? To boost their repository's fork count? Anyway, this is one of those times. Maybe one day I'll get around to deleting this.
+
 # Elyra Component Library - The Component Library for AI, Machine Learning, ETL, and Data Science
 
 **TL;DR**
